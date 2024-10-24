@@ -1,2 +1,2 @@
-# ui-ux-72
+# ui/ux-72
 Project 1
